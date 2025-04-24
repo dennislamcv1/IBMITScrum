@@ -1,5 +1,5 @@
 # IBMITScrum
-## IBM IT Scrum Master Professional Certificate
+## IBM IT Scrum Master Professional Certificate (8 course series)
 
 Advance your career as an IT Scrum Master. As more organizations adopt Agile development practices, the demand for Scrum Masters, especially in the IT industry, is expected to grow significantly over the next 10 years. In this program, you’ll develop the skills, tools, and portfolio to have a competitive edge in the job market.
 
